@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Example\git-certification\bin\Debug\net8.0\git-certification.exe
+C:\Users\user\Desktop\Example\git-certification\bin\Debug\net8.0\git-certification.deps.json
+C:\Users\user\Desktop\Example\git-certification\bin\Debug\net8.0\git-certification.runtimeconfig.json
+C:\Users\user\Desktop\Example\git-certification\bin\Debug\net8.0\git-certification.dll
+C:\Users\user\Desktop\Example\git-certification\bin\Debug\net8.0\git-certification.pdb
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\git-certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\git-certification.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\git-certification.AssemblyInfo.cs
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\git-certification.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\git-certification.sourcelink.json
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\git-certification.dll
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\refint\git-certification.dll
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\git-certification.pdb
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\git-certification.genruntimeconfig.cache
+C:\Users\user\Desktop\Example\git-certification\obj\Debug\net8.0\ref\git-certification.dll
